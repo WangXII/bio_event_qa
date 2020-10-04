@@ -1,0 +1,8 @@
+data/
+models/
+predictions/
+scibert/
+__pycache__/
+.vscode/
+*.pyc
+*.pyo
